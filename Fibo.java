@@ -25,5 +25,5 @@ public class Fibo {
           a = b;
           b = c;
         }
-  }
+    }
 }
